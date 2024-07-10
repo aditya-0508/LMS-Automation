@@ -86,8 +86,8 @@ public class program {
 		data[0][1]="";
 		data[1][0]="admin1";
 		data[1][1]="pass1";
-		data[2][0]="1NT21CS020";
-		data[2][1]="Lakshmi_0508";
+		data[2][0]="";
+		data[2][1]="pass";
 		return data;
 	}
 	@Test
